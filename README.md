@@ -29,3 +29,7 @@ ou
 ```
 coverage html
 ```
+
+### Coverage status
+
+![coverage](coverage.png)
